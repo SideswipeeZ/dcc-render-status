@@ -1,5 +1,5 @@
 # DCC Render Status (Application for Host)
-![](https://github.com/SideswipeeZ/dcc-render-status/blob/master/IMG/banner_ssrs.png)
+[![GLXY](https://github.com/SideswipeeZ/dcc-render-status/blob/master/IMG/banner_ssrs.png)](https://galaxy.store/dcc)
 
 Now available on the Samsung Galaxy Store ***(Search: DCC Render Status)***
 
@@ -104,4 +104,5 @@ MIT
    [Python]: <https://www.python.org/downloads/>
    [Arnold]: <https://www.arnoldrenderer.com/>
    [Redshift]: <https://www.redshift3d.com/>
+   [GLXY]: <https://galaxy.store/dcc>
 
