@@ -8,6 +8,7 @@ DCC Render Status is a concept application that allows you to recieve the status
   - On-Demand update from Machine
   - Average time per frame
   - Display ROP used to render
+  - Number of frames rendered
 
 ![](https://github.com/SideswipeeZ/dcc-render-status/blob/master/IMG/Github_Cap.png)
 
