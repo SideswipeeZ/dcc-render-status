@@ -88,7 +88,7 @@ After these have been correctly configured, simply run the python script with Py
 
  - Add a image preview system to allow you to view the latest image rendered.
  - Add custom jobs for other applications such as Nuke or After Effects or other file formats.
- - Add more devices to compaion app e.g. Android OS, iOS, Wear OS etc.
+ - Add more devices to companion app e.g. Android OS, iOS, Wear OS etc.
 
 License
 ----
