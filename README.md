@@ -1,7 +1,7 @@
 # DCC Render Status (Application for Host)
 ![](https://github.com/SideswipeeZ/dcc-render-status/blob/master/IMG/banner_ssrs.png)
 
-Now available on the Samsung Galaxy Store (Search: DCC Render Status)
+Now available on the Samsung Galaxy Store ***(Search: DCC Render Status)***
 
 DCC Render Status is a concept application that allows you to recieve the status of a local render from a machine that has access to the local files directly to your wrist device. Current features include:
 
