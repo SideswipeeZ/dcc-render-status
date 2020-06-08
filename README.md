@@ -53,7 +53,7 @@ Please lookup your router settings for more details. This step may change in the
 
 The following installation is for Windows OS.
 ### **Houdini/Maya**
-To get started download the **DCC** folder from the Repository and save files to a sensible directory that Houdini/Maya can read.
+To get started download the **TizenApp** folder from the Repository and save files to a sensible directory that Houdini/Maya can read.
 
 For Houdini open:
 Open the **TizenApp_Connect_Hou.py** file and edit the **app_location** variable to the directory you have saved. 
