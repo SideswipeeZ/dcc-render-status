@@ -3,6 +3,18 @@
 
 Now available on the Samsung Galaxy Store ***(Search: DCC Render Status)***
 
+*** !!! ***
+## [Update 1.1.0: New Features]
+## Galaxy Watch Application Updates.
+- Now Supports Images sent to device from the Server file. (You must Update the App on your Smart Watch and Use the Updated Server).
+- Updated Settings Menu UI and Now allows you change IP and PORT seperately. (Note: You will have to enter IP:PORT again when updated.)
+## Server Updates
+- Now Uses PIL to process image to be sent to the device.
+- Uses another handler to send image.
+NOTE YOU CAN STILL USE THE OLD VERSION OF THE APP WITH THE NEW SERVER.
+
+*** !!! ***
+
 DCC Render Status is a concept application that allows you to recieve the status of a local render from a machine that has access to the local files directly to your wrist device. Current features include:
 
   - On-Demand update from Machine
@@ -43,6 +55,7 @@ This application requires one or more of the following app to run correctly in a
     - [Redshift]
 - ***[Python] 3.5+***
     - Tornado Module
+    - PIL as of [1.1.0]
 
 
 ## Installation
@@ -86,7 +99,7 @@ After these have been correctly configured, simply run the python script with Py
 
 ### Future Plans
 
- - Add a image preview system to allow you to view the latest image rendered.
+ - ~~Add a image preview system to allow you to view the latest image rendered.~~  [Added as of 1.1.0]
  - Add custom jobs for other applications such as Nuke or After Effects or other file formats.
  - Add more devices to companion app e.g. Android OS, iOS, Wear OS etc.
 
